@@ -36,11 +36,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
-
+- I made a weight sensor, which is more of a giant button by cutting out some cardboard, and putting some foil on and taping it together. When you plug it in, the buzzer starts buzzing, and when you put force onto the giant button/weight sensor, the buzzer stops buzzing. I couldn't figure out why my buzzer wasn't working initially, but when I carefully checked the wiring it was because I forgot to add a wire that goes from my giant button to pin 2.
 # First Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
@@ -48,10 +44,7 @@ For your second milestone, explain what you've worked on since your previous mil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+My project is the alarm clock mat. For milestone one, I designed the circuit on tinkercad and wrote the code. I had and issue when I didn't know what to put in the seconds, so I searched it up, and apparently if you don't put any number in then it'll go on forever. But then I didn't want it to go on forever, so I put in "noTone" into the if loop, meaning if the button is pressed, then make it go quiet.  Then I made the circuit in real life, and put the code in. I plan on making the physical weight sensor next, using cardboard, tape, and aluminum foil. Then I'll make a website to control what time the buzzer sounds
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
