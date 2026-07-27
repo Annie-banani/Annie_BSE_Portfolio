@@ -1,7 +1,6 @@
 # Alarm Clock Mat
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+Are you like me, who slaps the alarm clock and goes back to sleep in the morning? I built the alarm clock door mat to get rid of that bad habit. 
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
@@ -22,8 +21,8 @@ You should comment out all portions of your portfolio that you have not complete
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
+For my final milestone, I switched the Arduino out for an Arduino Nano ESP32, and using that, I added a website in which I could edit what time I wanted the alarm to sound. 
+My biggest challenges 
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 
@@ -41,7 +40,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GXYiP8zMwdg?si=pSS0th8kuIUSS5T5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For your first milestone, describe what your project is and how you plan to build it. You can include:
 My project is the alarm clock mat. For milestone one, I designed the circuit on tinkercad and wrote the code. I had and issue when I didn't know what to put in the seconds, so I searched it up, and apparently if you don't put any number in then it'll go on forever. But then I didn't want it to go on forever, so I put in "noTone" into the if loop, meaning if the button is pressed, then make it go quiet.  Then I made the circuit in real life, and put the code in. I plan on making the physical weight sensor next, using cardboard, tape, and aluminum foil. Then I'll make a website to control what time the buzzer sounds
