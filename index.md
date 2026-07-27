@@ -322,8 +322,8 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Arduino Nano ESP32| Like an Arduino but has wifi and time | $19.30 |amazon.com/Arduino-ABX00083-Bluetooth-MicroPython-Compatible/dp/B0C947BHK5/ref=sr_1_3?dib=eyJ2IjoiMSJ9.muXyANMuy8-oE8Y74H25ZmbeUH4QVoqL4p3vOP7PNHi_BCUwBFk6aEY7H6cQQFPK35slhS3MBjfxBxq2Mzwi3nQGm7zJZNxSLTbkxX3wFKBrUHcqzvzKkaFCSIRlX5cSJMOQy03-vOSUCt4pyPq32GiqrplfeMXMgSjfQFqtkhgOcUDzD05HfZ9_x2Nu5D7OYlOqsdK_-A5ZBlWyXu6a8Z6ikHoIwNpxcNO0JTYVv5Hqc-gtnVcbh05X9tzEUW3yMQS780fYyVsRnuXRqzRzCTqfaLjIeBnJ3QxzUSMHnFo.cY4g_wdJg3Z3jbAVetgqc-CVsoD4EEwRvREeR1dpkDc&dib_tag=se&keywords=arduino+ESP32&qid=1785190336&s=pc&sr=1-3 |
+| 10k Ohm Reisistor | used as a pulldown resistor | $4.97 | https://www.amazon.com/10K-Resistor-Tolerance-Resistors-Resistance/dp/B0B4JFPHTW/ref=sr_1_3?crid=2DEJGTK76972M&dib=eyJ2IjoiMSJ9.gknab2RiHDeuvZO0JAGzJRtgD75BE--f41K6RaSHsn4aQBHmPtQpCxR2FuFmxY3WH49qKuQlU-GbX7ZC7uCd-kKutMSHYWc4NLWOFY_eV5w4I-4JNPogaQ-zcOVFZQL-vsKuzqKxbnqmU5zO6GsfjcY_EnX_Zkp_UG3GA9bQYXQp4b-j1mtCeDVWrkkxAm8TlkIb9K2agzN5GzoNcZWxYG0ivrXBBmwS4mJioI_3ixU.-a_kxtYvTbx-DSVCJ_ZXudMIl7Lpz052deGnomAjx4U&dib_tag=se&keywords=one%2B10k%2Bohm%2Bresistor&qid=1785190173&sprefix=one%2B10k%2Bohm%2Bresistor%2Caps%2C146&sr=8-3&th=1 |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
 # Other Resources/Examples
