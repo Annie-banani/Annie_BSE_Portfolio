@@ -51,7 +51,7 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
-'''c++
+''' c++
 
 #include <WiFi.h>
 #include <time.h>
@@ -313,8 +313,7 @@ void loop() {
   if(currentMinute != alarmMinute) wasPressed = 0;
 
   delay(400);
-}
-'''
+} '''
 
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
