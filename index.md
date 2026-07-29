@@ -10,21 +10,16 @@ Are you like me, who slaps the alarm clock and goes back to sleep in the morning
 |:--:|:--:|:--:|:--:|
 | Annie W | Harker | Electrical Engineering | Incoming 6th grader
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+
 
 ![Headstone Image](logo.svg)
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
 For my final milestone, I switched the Arduino out for an Arduino Nano ESP32, and using that, I added a website in which I could edit what time I wanted the alarm to sound. 
-My biggest challenges 
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+My biggest challenge was with the code. There was so many problems! I learned how to solder, code with C++, use wires, and most importantly, how to debug efficiently. I hope to learn how to use more sensors in the future.
 
 
 
@@ -34,8 +29,7 @@ My biggest challenges
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- I made a weight sensor, which is more of a giant button by cutting out some cardboard, and putting some foil on and taping it together. When you plug it in, the buzzer starts buzzing, and when you put force onto the giant button/weight sensor, the buzzer stops buzzing. I couldn't figure out why my buzzer wasn't working initially, but when I carefully checked the wiring it was because I forgot to add a wire that goes from my giant button to pin 2.
+I made a weight sensor, which is more of a giant button by cutting out some cardboard, and putting some foil on and taping it together. When you plug it in, the buzzer starts buzzing, and when you put force onto the giant button/weight sensor, the buzzer stops buzzing. I couldn't figure out why my buzzer wasn't working initially, but when I carefully checked the wiring it was because I forgot to add a wire that goes from my giant button to pin 2.
 # First Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
@@ -49,7 +43,7 @@ My project is the alarm clock mat. For milestone one, I designed the circuit on 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
+
 
 ```cpp
 
@@ -331,10 +325,4 @@ Don't forget to place the link of where to buy each component inside the quotati
 |Tape|To stick everything together|$4.49|https://www.amazon.com/ScotchBlue-Original-Multi-Surface-Painters-2090-24NC/dp/B00004Z4CP/ref=sr_1_6?crid=3J49EEENCA2Q&dib=eyJ2IjoiMSJ9.MVQs3MDGHt4bjeUcI-doMh3yuLdgJSPbp_SG1tNeHUZcY9rmoh3pMUtiMhUZ90syzX6QXBMrp5-OiSfJeh9PqJGWPr5wInLmlV_zorXKPMzT6HEaA4lGUL8y8VDsvgyygPF3UlugbPdFSkiXojCLb7w8roQiuSEQf29DXWySUcmNXCRvw4s16ItIRDJH9Sd14ImRi9fOrIL2tCKnwJRbaIbO6X077-Dws2GGjYW7hN1Bktni50rLLPYyIGqfN0FYrMLDTXiwd1OyOsme0Yg0vQqwIMyrVYBDz47LtYTqooA.EtLkxKhhmUW2eB0BmnazWO0JJGWxS90G8tlPl-KAPWU&dib_tag=se&keywords=blue%2BTape&qid=1785270131&sprefix=bluetape%2Caps%2C237&sr=8-6&th=1|
 |Floor Mat|Obviously|$12.45|https://www.amazon.com/Bathroom-Absorbent-Washable-Microfiber-Accessories/dp/B0GQRCYDY6/ref=sr_1_65?crid=SCW1DLS3458V&dib=eyJ2IjoiMSJ9.hfrQ4P-J59Yk4zw5QzkmAxVInli1a6iagIIJ2gFtAbM2SwwFeY5YOjmvQFvMEWjijjm-jegYN3OdBG4-E-MnIFP4s8tBuC6rQVrp2DjdJF8TbunIZy05IyECaGc5e283tp2umr_dwiVMbHHUKe4ZmmV1TUNcnVJkyVGkwWIcZpplp7cYc-ddGPf-so1ac6NqXoYt981wkoSXrB0QWkF_-Jq16WVEZlf3ZRYJmYelG6O5WbQRkwjwad3T3beSr-9Gfyz7HrPTKDYWO7IPn8vMUMPsfwKkzurl09DWGVR20cA.-EfJBnTlQRrRgIhKo3nBVvw4hdC_3ayFPHp3LhE8Gh0&dib_tag=se&keywords=beige%2BFloor%2BMat%2Bsmall%2Brug%2B20%2Bin%2Bby%2B20%2Bin&nsdOptOutParam=true&qid=1785270446&refinements=p_n_g-101014852311111%3A117987725011&rnid=117987481011&sprefix=beige%2Bfloor%2Bmat%2Bsmall%2Brug%2B20%2Bin%2Bby%2B20%2Bin%2Caps%2C168&sr=8-65&xpid=rpV2URfj0nQei&th=1|
 
-# Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
-
-To watch the BSE tutorial on how to create a portfolio, click here.
+v
