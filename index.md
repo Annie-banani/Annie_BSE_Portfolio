@@ -1,10 +1,6 @@
 # Alarm Clock Mat
 Are you like me, who slaps the alarm clock and goes back to sleep in the morning? I built the alarm clock door mat to get rid of that bad habit. 
 
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
 
 | **Engineer** | **School** | **Area of Interest** | Grade 6 |
 |:--:|:--:|:--:|:--:|
