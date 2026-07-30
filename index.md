@@ -12,7 +12,9 @@ Are you like me, who slaps the alarm clock and goes back to sleep in the morning
 
 
 
-![Headstone Image](logo.svg)
+<img width="1637" height="832" alt="Screenshot 2026-07-27 at 1 14 24 PM" src="https://github.com/user-attachments/assets/82279fe1-b4ed-4a28-be2d-0fa9f894381c" />
+<img width="591" height="226" alt="Screenshot 2026-07-27 at 1 21 08 PM" src="https://github.com/user-attachments/assets/18dc8386-2b37-42c5-9cd4-72447325bfd8" />
+
   
 # Final Milestone
 
