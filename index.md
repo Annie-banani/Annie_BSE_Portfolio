@@ -8,10 +8,9 @@ Are you like me, who slaps the alarm clock and goes back to sleep in the morning
 
 
 
-<img width="1637" height="832" alt="Screenshot 2026-07-27 at 1 14 24 PM" src="https://github.com/user-attachments/assets/82279fe1-b4ed-4a28-be2d-0fa9f894381c" />
-<img width="591" height="226" alt="Screenshot 2026-07-27 at 1 21 08 PM" src="https://github.com/user-attachments/assets/18dc8386-2b37-42c5-9cd4-72447325bfd8" />
+<img width="591" height="226" alt="Screenshot 2026-07-27 at 1 21 08 PM" src="https://github.com/user-attachments/assets/3eae0bec-7723-4e51-8765-a330b554011b" />
+<img width="296" height="201" alt="Screenshot 2026-07-30 at 1 36 45 PM" src="https://github.com/user-attachments/assets/cd5d5f34-1dd3-4cdd-80da-1bdc650eb1f7" />
 
-  
 # Final Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
